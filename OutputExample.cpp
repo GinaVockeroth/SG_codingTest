@@ -1,0 +1,112 @@
+//
+//  OutputExample.cpp
+//  HelloWorld
+//
+//  Created by Gina Vockeroth on 5/28/18.
+//  Copyright © 2018 Gina Vockeroth. All rights reserved.
+//
+
+9 entries in birth array
+4 people are alive in 1900
+4 people are alive in 1901
+4 people are alive in 1902
+4 people are alive in 1903
+4 people are alive in 1904
+4 people are alive in 1905
+4 people are alive in 1906
+4 people are alive in 1907
+4 people are alive in 1908
+4 people are alive in 1909
+3 people are alive in 1910
+3 people are alive in 1911
+2 people are alive in 1912
+1 people are alive in 1913
+0 people are alive in 1914
+0 people are alive in 1915
+0 people are alive in 1916
+0 people are alive in 1917
+0 people are alive in 1918
+0 people are alive in 1919
+0 people are alive in 1920
+0 people are alive in 1921
+0 people are alive in 1922
+0 people are alive in 1923
+0 people are alive in 1924
+0 people are alive in 1925
+0 people are alive in 1926
+0 people are alive in 1927
+0 people are alive in 1928
+0 people are alive in 1929
+0 people are alive in 1930
+0 people are alive in 1931
+0 people are alive in 1932
+0 people are alive in 1933
+0 people are alive in 1934
+0 people are alive in 1935
+0 people are alive in 1936
+0 people are alive in 1937
+0 people are alive in 1938
+0 people are alive in 1939
+0 people are alive in 1940
+0 people are alive in 1941
+0 people are alive in 1942
+0 people are alive in 1943
+0 people are alive in 1944
+0 people are alive in 1945
+0 people are alive in 1946
+0 people are alive in 1947
+0 people are alive in 1948
+0 people are alive in 1949
+5 people are alive in 1950
+5 people are alive in 1951
+5 people are alive in 1952
+5 people are alive in 1953
+5 people are alive in 1954
+5 people are alive in 1955
+5 people are alive in 1956
+5 people are alive in 1957
+5 people are alive in 1958
+5 people are alive in 1959
+5 people are alive in 1960
+5 people are alive in 1961
+5 people are alive in 1962
+5 people are alive in 1963
+5 people are alive in 1964
+5 people are alive in 1965
+5 people are alive in 1966
+5 people are alive in 1967
+5 people are alive in 1968
+5 people are alive in 1969
+5 people are alive in 1970
+5 people are alive in 1971
+5 people are alive in 1972
+5 people are alive in 1973
+5 people are alive in 1974
+5 people are alive in 1975
+5 people are alive in 1976
+5 people are alive in 1977
+5 people are alive in 1978
+5 people are alive in 1979
+5 people are alive in 1980
+5 people are alive in 1981
+5 people are alive in 1982
+5 people are alive in 1983
+5 people are alive in 1984
+5 people are alive in 1985
+5 people are alive in 1986
+5 people are alive in 1987
+5 people are alive in 1988
+5 people are alive in 1989
+5 people are alive in 1990
+5 people are alive in 1991
+5 people are alive in 1992
+5 people are alive in 1993
+5 people are alive in 1994
+4 people are alive in 1995
+3 people are alive in 1996
+2 people are alive in 1997
+1 people are alive in 1998
+0 people are alive in 1999
+0 people are alive in 2000
+Most people alive in 1994 with 5 people
+Program ended with exit code: 0
